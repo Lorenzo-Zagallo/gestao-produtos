@@ -103,11 +103,13 @@ O projeto utiliza a seguinte estrutura, focada na pasta src/ para separar a lóg
 
 ## Amostras do Aplicativo
 
+<div align="center">
 
 | Tela Inicial | Tela de Novo Produto | Cadastrando um Produto |
 | :---: | :---: | :---: |
 | <img src="./assets/images/sample1.png" alt="Tela 1" width="200" height="435"> | <img src="./assets/images/sample2.png" alt="Tela 2" width="200" height="435"> | <img src="./assets/images/sample3.png" alt="Tela 3" width="200" height="435"> |
 
+</div>
 
 ## 🧩 Detalhes dos Componentes
 
