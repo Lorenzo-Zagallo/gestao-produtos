@@ -101,6 +101,13 @@ O projeto utiliza a seguinte estrutura, focada na pasta src/ para separar a lóg
 ├── App.js                      # Ponto de entrada (Configuração do React Navigation Stack)
 ```
 
+## Amostras do Aplicativo
+
+
+| Tela Inicial | Tela de Novo Produto | Cadastrando um Produto |
+| :---: | :---: | :---: |
+| <img src="./assets/images/sample1.png" alt="Tela 1" width="200" height="435"> | <img src="./assets/images/sample2.png" alt="Tela 2" width="200" height="435"> | <img src="./assets/images/sample3.png" alt="Tela 3" width="200" height="435"> |
+
 
 ## 🧩 Detalhes dos Componentes
 
